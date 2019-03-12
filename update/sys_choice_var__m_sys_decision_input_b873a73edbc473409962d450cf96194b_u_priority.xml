@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="u_priority" table="var__m_sys_decision_input_b873a73edbc473409962d450cf96194b" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_priority</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>1 - Critical</label>
+            <language>en</language>
+            <name>var__m_sys_decision_input_b873a73edbc473409962d450cf96194b</name>
+            <sequence/>
+            <sys_created_by>tricia.lynch</sys_created_by>
+            <sys_created_on>2019-03-12 14:33:26</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c7acd3c7dbc0b3409962d450cf961914</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>tricia.lynch</sys_updated_by>
+            <sys_updated_on>2019-03-12 14:33:26</sys_updated_on>
+            <value>1</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_priority</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>2 - High</label>
+            <language>en</language>
+            <name>var__m_sys_decision_input_b873a73edbc473409962d450cf96194b</name>
+            <sequence/>
+            <sys_created_by>tricia.lynch</sys_created_by>
+            <sys_created_on>2019-03-12 14:33:39</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>59cc9fc3dbc0b3409962d450cf961977</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>tricia.lynch</sys_updated_by>
+            <sys_updated_on>2019-03-12 14:33:39</sys_updated_on>
+            <value>2</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_priority</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>3 - Moderate</label>
+            <language>en</language>
+            <name>var__m_sys_decision_input_b873a73edbc473409962d450cf96194b</name>
+            <sequence/>
+            <sys_created_by>tricia.lynch</sys_created_by>
+            <sys_created_on>2019-03-12 14:33:57</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c2dcdfc3dbc0b3409962d450cf96194d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>tricia.lynch</sys_updated_by>
+            <sys_updated_on>2019-03-12 14:33:57</sys_updated_on>
+            <value>3</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_priority</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>4 - Low</label>
+            <language>en</language>
+            <name>var__m_sys_decision_input_b873a73edbc473409962d450cf96194b</name>
+            <sequence/>
+            <sys_created_by>tricia.lynch</sys_created_by>
+            <sys_created_on>2019-03-12 14:34:10</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>85ec57c7dbc0b3409962d450cf9619a2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>tricia.lynch</sys_updated_by>
+            <sys_updated_on>2019-03-12 14:34:10</sys_updated_on>
+            <value>4</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_priority</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>5 - Planning</label>
+            <language>en</language>
+            <name>var__m_sys_decision_input_b873a73edbc473409962d450cf96194b</name>
+            <sequence/>
+            <sys_created_by>tricia.lynch</sys_created_by>
+            <sys_created_on>2019-03-12 14:34:24</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>60fcd3c7dbc0b3409962d450cf961937</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>tricia.lynch</sys_updated_by>
+            <sys_updated_on>2019-03-12 14:34:24</sys_updated_on>
+            <value>5</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>u_priority</element>
+            <name>var__m_sys_decision_input_b873a73edbc473409962d450cf96194b</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>tricia.lynch</sys_created_by>
+            <sys_created_on>2019-03-12 14:33:26</sys_created_on>
+            <sys_id>debc93c7dbc0b3409962d450cf96196e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>u_priority</sys_name>
+            <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+            <sys_update_name>sys_choice_var__m_sys_decision_input_b873a73edbc473409962d450cf96194b_u_priority</sys_update_name>
+            <sys_updated_by>tricia.lynch</sys_updated_by>
+            <sys_updated_on>2019-03-12 14:33:26</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>
